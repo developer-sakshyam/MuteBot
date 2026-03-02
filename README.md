@@ -72,11 +72,13 @@ Invite bot with:
 
 applications.commands
 bot
+
 ---
 
 # Run the bot:
 
 python bot.py
+
 ---
 
 # 🚀 Permissions Required
@@ -88,7 +90,9 @@ Send Messages
 View Channels
 
 Slash Command Scope
+
 ---
+
 # 🧠 How It Works
 
 User joins voice and stays muted
@@ -100,7 +104,9 @@ Warning after configured time
 Timeout after continued inactivity
 
 Bypass roles are ignored
+
 ---
+
 # 📌 Notes
 
 Commands sync instantly per guild during testing
@@ -110,7 +116,9 @@ Global sync may take up to 1 hour
 Role hierarchy matters for timeouts
 
 System channel is optional (warnings use configured channels)
+
 ---
+
 # 💡 Future Ideas
 
 Database logging
